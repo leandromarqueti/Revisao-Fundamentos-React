@@ -39,5 +39,30 @@ Durante o desenvolvimento e revisão deste projeto, foram aplicados padrões rec
 Para rodar este projeto localmente, siga os passos abaixo:
 
 ### 1. Clonar o repositório
-```bash
+
 git clone [https://github.com/leandromarqueti/Revisao-Fundamentos-React.git](https://github.com/leandromarqueti/Revisao-Fundamentos-React.git)
+
+### 2. Entrar no diretório do projeto
+Bash
+cd Revisao-Fundamentos-React
+
+### 3. Instalar as dependências
+Se você utiliza npm:
+
+Bash
+npm install
+Se você utiliza yarn:
+
+Bash
+yarn
+
+### 4. Iniciar o servidor de desenvolvimento
+Com npm:
+
+Bash
+npm run dev
+Com yarn:
+
+Bash
+yarn dev
+Abra o navegador no endereço indicado no terminal (geralmente http://localhost:5173) para visualizar a aplicação.
